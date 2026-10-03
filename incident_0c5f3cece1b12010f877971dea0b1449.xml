@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-03 04:33:52">
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="survey user">005d500b536073005e0addeeff7b12f4</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0008001</number>
+<opened_at>2021-01-15 21:04:14</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>5</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>ATF:TEST2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-01-15 21:04:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>0c5f3cece1b12010f877971dea0b1449</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-01-21 23:31:42</sys_updated_on>
+<task_effective_number>INC0008001</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+</unload>
