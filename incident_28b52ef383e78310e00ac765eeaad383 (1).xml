@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-03 04:31:22">
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</assigned_to>
+<assignment_group display_value="Software" name="Software">8a4dde73c6112278017a6a4baf547aa7</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="Adela Cervantsz">0a826bf03710200044e0bfc8bcbe5d7a</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>1</impact>
+<incident_state>2</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010023</number>
+<opened_at>2026-10-02 16:33:12</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>testing ui policy</short_description>
+<sla_due/>
+<state>2</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-02 16:36:04</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>28b52ef383e78310e00ac765eeaad383</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-02 16:36:04</sys_updated_on>
+<task_effective_number>INC0010023</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+</unload>
